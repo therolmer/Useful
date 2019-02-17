@@ -1,0 +1,4 @@
+IDE
+https://docs.platformio.org/en/latest/boards/espressif8266/heltec_wifi_kit_8.html
+
+https://www.visualmicro.com/
