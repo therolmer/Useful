@@ -1,0 +1,18 @@
+Сначал необходимо активировать Virtual Environment
+WebcamSample\venv\Scripts>activate.bat
+
+Потом скачать отсюда файл с OpenCv 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+Например:
+opencv_python-4.0.1+contrib-cp36-cp36m-win_amd64.whl
+Обязательно чтобы было contrib в название (чтобы это не значало)
+Соответственно данный файл для Python 3.6 с OpenCv 4.0.1 под Windows x64
+
+Устанавливается он следующей командой
+(venv) c:\\WebcanSample3\venv\Scripts>pip install opencv_python-4.0.1+contrib-cp36-cp36m-win_amd64.whl
+(Внутри Virtual Environment)
+
+Аналогично на том же сайте скачивается библиотека numPy, необходимая дя работы OpenCv
+numpy-1.16.2+mkl-cp36-cp36m-win_amd64.whl
+
+Устанавливается аналогично OpenCv
