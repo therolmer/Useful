@@ -1,0 +1,23 @@
+install postgresql
+install timescaledb into postgresql
+
+restart postgres service
+check the sevice is up and running
+
+move all timescaledb*.* files from "<postgresql folder>share" folder to "<postgresql folder>\share\extension"
+
+in the command line enter "psql -U postgres -W  -h localhost"
+after that enter password for user postgres
+
+CREATE DATABASE  tut;
+\c tut;
+
+CREATE EXTENSION IF NOT EXISTS timescaledb CASCADE;
+
+CREATE TABLE ticksAndOffsets (
+  time          bigint NOT NULL,
+  offsetToData  bigint NOT NULL,
+  lenght        bigint NOT NULL 
+);
+
+SELECT create_hypertable('ticksAndOffsets', 'time', chunk_time_interval => 1000000);
