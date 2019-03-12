@@ -8,6 +8,7 @@ blueflood - no commits for one year
 Rhombus - no commits for five years
 seriesly - no commits for four years
 TempoIQ - no update for three years
+Chronix - no commits for one year 
 OpenNMS - active phase of development ended about 3 years ago
 ssdb - active phase of development ended about 3 years ago
 
