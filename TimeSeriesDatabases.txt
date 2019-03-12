@@ -31,5 +31,6 @@ KairosDB - saving data using telnet and REST API
 heroic - Java only and they have only Alpha version
 OpenTSDB - Non trivial configuration. saving data using telnet and HTTP API
 rrdtool - database not for general data
+hawkular-metrics - access data using HTTP
 
-rocksdb - needs compilation for windows
+rocksdb - needs compilation for Windows
