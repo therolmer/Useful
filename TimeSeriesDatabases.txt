@@ -1,5 +1,6 @@
-influxdb -commercial
-kx-commercial (only 32 bit version free)
+influxdb - have community edition
+kx - commercial (only 32 bit version free)
+QuasarDB - community edition limit data size to 16 Gb
 
 dalmatinerdb - no commits for one year 
 KsanaDB - no commits for three years
