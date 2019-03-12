@@ -1,0 +1,34 @@
+influxdb -commercial
+kx-commercial (only 32 bit version free)
+
+dalmatinerdb - no commits for one year 
+KsanaDB - no commits for three years
+Cube - no commits for six years
+blueflood - no commits for one year 
+Rhombus - no commits for five years
+seriesly - no commits for four years
+TempoIQ - no update for three years
+OpenNMS - active phase of development ended about 3 years ago
+ssdb - active phase of development ended about 3 years ago
+
+siridb - no Windows support
+riakts - no Windows support
+warp10 - Windows support throught Docker
+akumuli - no Windows support
+Druid - no Windows support
+griddb - no Windows support
+DB4IoT - no Windows support
+JaguarDB - no Windows support
+IRONdb - no Windows support
+Axibase - only Windows 2019 using Windows Subsystem for Linux
+
+AresDB - Needs GPU. Probably not work under Windows
+SnappyData - In memory Db
+Hawkular Metrics - no C# interface. Needs Cassandra for work
+prometheus - more service for analysing, than database
+KairosDB - saving data using telnet and REST API
+heroic - Java only and they have only Alpha version
+OpenTSDB - Non trivial configuration. saving data using telnet and HTTP API
+rrdtool - database not for general data
+
+rocksdb - needs compilation for windows
