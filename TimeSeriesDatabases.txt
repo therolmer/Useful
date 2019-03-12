@@ -1,6 +1,8 @@
 influxdb - have community edition
-kx - commercial (only 32 bit version free)
 QuasarDB - community edition limit data size to 16 Gb
+machbase - only C interface. Need time to check
+
+kx - commercial (only 32 bit version free)
 
 dalmatinerdb - no commits for one year 
 KsanaDB - no commits for three years
