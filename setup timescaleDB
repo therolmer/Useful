@@ -5,6 +5,7 @@ restart postgres service
 check the sevice is up and running
 
 move all timescaledb*.* files from "<postgresql folder>share" folder to "<postgresql folder>\share\extension"
+copy all timescaledb*.dll to folder lib
 
 in the command line enter "psql -U postgres -W  -h localhost"
 after that enter password for user postgres
