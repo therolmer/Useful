@@ -2,3 +2,6 @@ IDE
 https://docs.platformio.org/en/latest/boards/espressif8266/heltec_wifi_kit_8.html
 
 https://www.visualmicro.com/
+
+Board manager for ESP 32
+https://dl.espressif.com/dl/package_esp32_index.json
