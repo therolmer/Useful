@@ -3,5 +3,8 @@ https://docs.platformio.org/en/latest/boards/espressif8266/heltec_wifi_kit_8.htm
 
 https://www.visualmicro.com/
 
-Board manager for ESP 32
+Board manager for ESP32
 https://dl.espressif.com/dl/package_esp32_index.json
+
+Board manager for ESP8366
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
