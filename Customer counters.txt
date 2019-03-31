@@ -26,3 +26,5 @@ https://onlain-kassy.ru/oborudovanie/dopolnit/schetchiki-posetitelej.html
 За счет wardriving можно найти координаты данных точек. Соответсвенно, списко точек, к торым обращается Mac адрес - 
 это его fingerprint
 
+Apple рандомизирует по всему адресному пространсву
+Google только DA:A1:19
