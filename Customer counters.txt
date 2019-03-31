@@ -36,3 +36,5 @@ Google только DA:A1:19 и 92:68:C3
 The average number of devices sending probe requests depending on the size of a temporalwindow. 
 They found that, for instance,85% of devices have an 80% probability 
 of sending probe requests in a 3-minute time frame
+
+Android P improves this functionality, by generating a different MAC address for every Wi-Fi network you connect to. 
